@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class MaxElementGeneric {
+public class Solution {
     
     // Generic method to find max
     public static <T extends Comparable<T>> T findMax(T[] array) {
